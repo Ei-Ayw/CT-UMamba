@@ -1,4 +1,4 @@
-# DFMamba
+# CT-UMamba
 
 ## 👀 Introduction
 
